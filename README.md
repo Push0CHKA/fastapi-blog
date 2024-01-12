@@ -13,7 +13,7 @@
 
 ## Как запустить приложение?
 ```
-git clone https://github.com/sourabhsinha396/fastapi-blog
+git clone https://github.com/Push0CHKA/fastapi-blog
 cd .\algoholic.io\
 python -m venv env   
 .\env\Scripts\activate  
